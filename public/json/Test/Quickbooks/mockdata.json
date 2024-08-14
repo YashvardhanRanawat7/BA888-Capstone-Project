@@ -1,0 +1,241 @@
+{
+    "ProfitAndLoss": [
+        {
+            "Header": {
+                "Time": "2024-08-05T11:06:03-07:00",
+                "ReportName": "ProfitAndLoss",
+                "DateMacro": "This Month",
+                "StartPeriod": "2024-08-01",
+                "EndPeriod": "2024-08-31",
+                "Currency": "USD",
+                "Option": [
+                    {
+                        "Name": "NoReportData",
+                        "Value": "false"
+                    }
+                ]
+            },
+            "Columns": {
+                "Column": [
+                    {
+                        "ColTitle": "",
+                        "ColType": "Account",
+                        "MetaData": [
+                            {
+                                "Name": "ColKey",
+                                "Value": "account"
+                            }
+                        ]
+                    },
+                    {
+                        "ColTitle": "TOTAL",
+                        "ColType": "Money",
+                        "MetaData": [
+                            {
+                                "Name": "ColKey",
+                                "Value": "total"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "Rows": {
+                "Row": [
+                    {
+                        "Header": {
+                            "ColData": [
+                                {
+                                    "value": "Income"
+                                },
+                                {
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        "Rows": {
+                            "Row": [
+                                {
+                                    "ColData": [
+                                        {
+                                            "value": "AI Services Income"
+                                        },
+                                        {
+                                            "value": "150000.00"
+                                        }
+                                    ],
+                                    "type": "Data"
+                                },
+                                {
+                                    "ColData": [
+                                        {
+                                            "value": "Consulting Income"
+                                        },
+                                        {
+                                            "value": "25000.00"
+                                        }
+                                    ],
+                                    "type": "Data"
+                                }
+                            ]
+                        },
+                        "Summary": {
+                            "ColData": [
+                                {
+                                    "value": "Total Income"
+                                },
+                                {
+                                    "value": "175000.00"
+                                }
+                            ]
+                        },
+                        "type": "Section",
+                        "group": "Income"
+                    },
+                    {
+                        "Header": {
+                            "ColData": [
+                                {
+                                    "value": "Expenses"
+                                },
+                                {
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        "Rows": {
+                            "Row": [
+                                {
+                                    "ColData": [
+                                        {
+                                            "value": "Cloud Infrastructure"
+                                        },
+                                        {
+                                            "value": "30000.00"
+                                        }
+                                    ],
+                                    "type": "Data"
+                                },
+                                {
+                                    "ColData": [
+                                        {
+                                            "value": "Salaries and Wages"
+                                        },
+                                        {
+                                            "value": "80000.00"
+                                        }
+                                    ],
+                                    "type": "Data"
+                                },
+                                {
+                                    "ColData": [
+                                        {
+                                            "value": "Marketing and Advertising"
+                                        },
+                                        {
+                                            "value": "15000.00"
+                                        }
+                                    ],
+                                    "type": "Data"
+                                }
+                            ]
+                        },
+                        "Summary": {
+                            "ColData": [
+                                {
+                                    "value": "Total Expenses"
+                                },
+                                {
+                                    "value": "125000.00"
+                                }
+                            ]
+                        },
+                        "type": "Section",
+                        "group": "Expenses"
+                    },
+                    {
+                        "Summary": {
+                            "ColData": [
+                                {
+                                    "value": "Net Income"
+                                },
+                                {
+                                    "value": "50000.00"
+                                }
+                            ]
+                        },
+                        "type": "Section",
+                        "group": "NetIncome"
+                    }
+                ]
+            }
+        }
+    ],
+    "organization": [
+        {
+            "id": "1",
+            "updated_at": "2024-01-22T20:54:30.000Z",
+            "created_at": "2024-01-14T09:50:56.000Z",
+            "name": "AI Innovate Solutions",
+            "legal_name": "AI Innovate Solutions Inc.",
+            "address": {
+                "address1": "123 Tech Boulevard",
+                "postal_code": "94103",
+                "city": "San Francisco",
+                "region": "California",
+                "country": "United States",
+                "country_code": "US",
+                "region_code": "CA"
+            },
+            "website": "www.aiinnovatesolutions.com",
+            "fiscal_year_end_month": 12
+        }
+    ],
+    "item": [
+        {
+            "id": "1",
+            "updated_at": "2024-01-01T00:00:00.000Z",
+            "created_at": "2024-01-01T00:00:00.000Z",
+            "name": "AI Text Generation",
+            "description": "Advanced AI-powered text generation service",
+            "type": "Service",
+            "variants": [
+                {
+                    "name": "AI Text Generation",
+                    "description": "Advanced AI-powered text generation service",
+                    "is_active": true,
+                    "prices": [
+                        {
+                            "price": 99.99
+                        }
+                    ]
+                }
+            ],
+            "vendor_name": "1",
+            "is_active": true,
+            "is_taxable": false
+        },
+        {
+            "id": "2",
+            "updated_at": "2024-01-01T00:00:00.000Z",
+            "created_at": "2024-01-01T00:00:00.000Z",
+            "name": "AI Image Analysis",
+            "description": "Cutting-edge AI image analysis and recognition",
+            "type": "Service",
+            "variants": [
+                {
+                    "name": "AI Image Analysis",
+                    "description": "Cutting-edge AI image analysis and recognition",
+                    "is_active": true,
+                    "prices": [
+                        {
+                            "price": 149.99
+                        }
+                    ]
+                }
+            ],
+            "vendor_name": "1",
+            "is_active": true,
+            "is_taxable": false
+        }
+    ]
+}
