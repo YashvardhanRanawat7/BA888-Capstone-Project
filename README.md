@@ -1,4 +1,4 @@
-# aiDashboard Project
+# BA888 Capstone Project
 
 ## Overview
 
@@ -34,31 +34,3 @@ aiDashboard is an intuitive dashboard solution for QuickBooks customers, leverag
 ### Chrome Extension
 - Designed mockups using Figma
 - Implemented extension using JavaScript, HTML, and CSS
-
-## Technical Details
-
-- **Frontend**: React, D3.js, Plotly
-- **Backend**: [Add your backend technology here]
-- **AI Integration**: HeronAI
-- **Data Analysis**: Python (pandas, scipy, statsmodels)
-- **Extension**: JavaScript, HTML, CSS
-
-## Installation and Setup
-
-[Add instructions for setting up the project locally]
-
-## Usage
-
-[Provide brief instructions on how to use the dashboard and extension]
-
-## Contributing
-
-We welcome contributions to the aiDashboard project. Please read our contributing guidelines before submitting pull requests.
-
-## License
-
-[Add your chosen license here]
-
-## Contact
-
-For any queries or support, please contact [your contact information].
