@@ -1,0 +1,5 @@
+QueryResponse,time
+"[{'TaxTrackedOnPurchases': False, 'TaxTrackedOnSales': True, 'domain': 'QBO', 'sparse': False, 'Id': '1', 'SyncToken': '0', 'MetaData': {'CreateTime': '2023-12-18T12:17:04-08:00', 'LastUpdatedTime': '2023-12-18T12:17:04-08:00'}, 'DisplayName': 'Arizona Dept. of Revenue'}, {'TaxTrackedOnPurchases': False, 'TaxTrackedOnSales': True, 'domain': 'QBO', 'sparse': False, 'Id': '2', 'SyncToken': '0', 'MetaData': {'CreateTime': '2023-12-18T12:17:04-08:00', 'LastUpdatedTime': '2023-12-18T12:17:04-08:00'}, 'DisplayName': 'Board of Equalization'}]",2024-08-01T23:04:49.807-07:00
+1,2024-08-01T23:04:49.807-07:00
+2,2024-08-01T23:04:49.807-07:00
+2,2024-08-01T23:04:49.807-07:00

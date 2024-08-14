@@ -1,0 +1,19 @@
+id,updated_at,created_at,name,description,type,variants,vendor_name,is_active,is_taxable
+3,2023-12-19T20:47:47.000Z,2023-12-16T18:36:03.000Z,Concrete,Concrete for fountain installation,Service,"[{'name': 'Concrete', 'description': 'Concrete for fountain installation', 'is_active': True}]",48,True,True
+4,2023-12-16T18:41:38.000Z,2023-12-16T18:41:38.000Z,Design,Custom Design,Service,"[{'name': 'Design', 'description': 'Custom Design', 'is_active': True, 'prices': [{'price': 75}]}]",82,True,False
+6,2023-12-16T18:43:14.000Z,2023-12-16T18:43:14.000Z,Gardening,Weekly Gardening Service,Service,"[{'name': 'Gardening', 'description': 'Weekly Gardening Service', 'is_active': True}]",45,True,False
+2,2023-12-11T22:42:05.000Z,2023-12-11T22:42:05.000Z,Hours,,Service,"[{'name': 'Hours', 'is_active': True}]",1,True,False
+7,2023-12-16T18:43:54.000Z,2023-12-16T18:43:54.000Z,Installation,Installation of landscape design,Service,"[{'name': 'Installation', 'description': 'Installation of landscape design', 'is_active': True, 'prices': [{'price': 50}]}]",52,True,False
+8,2023-12-19T20:47:38.000Z,2023-12-16T18:44:40.000Z,Lighting,Garden Lighting,Service,"[{'name': 'Lighting', 'description': 'Garden Lighting', 'is_active': True}]",48,True,True
+9,2023-12-16T18:45:18.000Z,2023-12-16T18:45:18.000Z,Maintenance & Repair,Maintenance & Repair,Service,"[{'name': 'Maintenance & Repair', 'description': 'Maintenance & Repair', 'is_active': True}]",53,True,False
+10,2023-12-16T18:45:49.000Z,2023-12-16T18:45:49.000Z,Pest Control,Pest Control Services,Service,"[{'name': 'Pest Control', 'description': 'Pest Control Services', 'is_active': True, 'prices': [{'price': 35}]}]",54,True,False
+11,2023-12-19T21:16:17.000Z,2023-12-16T18:46:45.000Z,Pump,Fountain Pump,Inventory,"[{'name': 'Pump', 'description': 'Fountain Pump', 'public_description': 'Fountain Pump', 'total_stock': 25, 'is_active': True, 'prices': [{'price': 15}]}]",79,True,True
+12,2023-12-16T18:49:18.000Z,2023-12-16T18:49:18.000Z,Refunds & Allowances,Income due to refunds or allowances,Service,"[{'name': 'Refunds & Allowances', 'description': 'Income due to refunds or allowances', 'is_active': True}]",83,True,False
+5,2023-12-19T21:16:17.000Z,2023-12-16T18:42:19.000Z,Rock Fountain,Rock Fountain,Inventory,"[{'name': 'Rock Fountain', 'description': 'Rock Fountain', 'public_description': 'Rock Fountain', 'total_stock': 2, 'is_active': True, 'prices': [{'price': 275}]}]",79,True,True
+13,2023-12-19T20:47:31.000Z,2023-12-16T18:50:11.000Z,Rocks,Garden Rocks,Service,"[{'name': 'Rocks', 'description': 'Garden Rocks', 'is_active': True}]",48,True,True
+1,2023-12-11T22:42:05.000Z,2023-12-11T22:42:05.000Z,Services,,Service,"[{'name': 'Services', 'is_active': True}]",1,True,False
+14,2023-12-19T20:47:22.000Z,2023-12-16T18:50:45.000Z,Sod,Sod,Service,"[{'name': 'Sod', 'description': 'Sod', 'is_active': True}]",49,True,True
+15,2023-12-19T20:47:25.000Z,2023-12-16T18:51:28.000Z,Soil,2 cubic ft. bag,Service,"[{'name': 'Soil', 'description': '2 cubic ft. bag', 'public_description': '2 cubic ft. bag', 'is_active': True, 'prices': [{'price': 10}]}]",49,True,True
+16,2023-12-19T20:51:47.000Z,2023-12-16T18:51:50.000Z,Sprinkler Heads,Sprinkler Heads,Inventory,"[{'name': 'Sprinkler Heads', 'description': 'Sprinkler Heads', 'public_description': 'Sprinkler Heads', 'total_stock': 25, 'is_active': True, 'prices': [{'price': 2}]}]",79,True,True
+17,2023-12-19T20:57:24.000Z,2023-12-16T18:52:07.000Z,Sprinkler Pipes,Sprinkler Pipes,Inventory,"[{'name': 'Sprinkler Pipes', 'description': 'Sprinkler Pipes', 'public_description': 'Sprinkler Pipes', 'total_stock': 31, 'is_active': True, 'prices': [{'price': 4}]}]",79,True,True
+18,2023-12-16T18:52:42.000Z,2023-12-16T18:52:42.000Z,Trimming,Tree and Shrub Trimming,Service,"[{'name': 'Trimming', 'description': 'Tree and Shrub Trimming', 'is_active': True, 'prices': [{'price': 35}]}]",45,True,False

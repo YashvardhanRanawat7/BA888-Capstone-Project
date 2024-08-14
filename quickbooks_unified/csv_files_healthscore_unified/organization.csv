@@ -1,0 +1,2 @@
+id,updated_at,created_at,name,legal_name,address,website,fiscal_year_end_month
+1,2024-01-22T20:54:30.000Z,2024-01-14T09:50:56.000Z,Sandbox Company_US_1,Sandbox Company_US_1,"{'address1': '123 Sierra Way', 'postal_code': '87999', 'city': 'San Pablo', 'region': 'California', 'country': 'United States', 'country_code': 'US', 'region_code': 'CA'}",,1
